@@ -10,14 +10,14 @@ C:
         > write an array of doubles to a CSV file.
 
 C++:
-  dir: read csv to vector
+  dir: cpp-tools/read csv to vector
       utils.cpp
         > read csv file and print on to stdout.
         > read CSR format data (3 vectors) and 1-to-1 mapping vector from csv files.
         > write a vector to a CSV file.
         > Read a CSV file into a vector.
 
-  dir: read matrix market symmetric matrix
+  dir: cpp-tools/read matrix market symmetric matrix
       utils.cpp
         > read a symmetric sparse Matrix Market file into COO format.
         > convert COO format to CSR format.
